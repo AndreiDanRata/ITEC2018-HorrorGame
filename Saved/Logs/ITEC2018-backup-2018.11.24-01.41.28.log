@@ -1,0 +1,582 @@
+﻿Log file open, 11/24/18 01:15:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ITEC2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1599222078) SRandInit(-1599222078).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170094
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.23-23.15.44:272][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.23-23.15.44:272][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.23-23.15.44:301][  0]LogInit: Computer: DESKTOP-56PGU70
+[2018.11.23-23.15.44:301][  0]LogInit: User: rataa
+[2018.11.23-23.15.44:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.23-23.15.44:301][  0]LogInit: High frequency timer resolution =3.421867 MHz
+[2018.11.23-23.15.44:301][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.23-23.15.44:301][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.23-23.15.44:301][  0]LogMemory: Process Physical Memory: 271.13 MB used, 271.13 MB peak
+[2018.11.23-23.15.44:301][  0]LogMemory: Process Virtual Memory: 263.75 MB used, 263.75 MB peak
+[2018.11.23-23.15.44:301][  0]LogMemory: Physical Memory: 7728.56 MB used,  8586.49 MB free, 16315.05 MB total
+[2018.11.23-23.15.44:301][  0]LogMemory: Virtual Memory: 4768.14 MB used,  8586.49 MB free, 134217728.00 MB total
+[2018.11.23-23.15.44:624][  0]LogInit: Using OS detected language (en-US).
+[2018.11.23-23.15.44:624][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.23-23.15.44:635][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.23-23.15.45:598][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.23-23.15.48:057][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.23-23.15.48:125][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 380 Series' (Feature Level 11_0)
+[2018.11.23-23.15.48:125][  0]LogD3D11RHI:       4071/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.11.23-23.15.48:127][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.23-23.15.48:127][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.23-23.15.48:127][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.23-23.15.48:134][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.23-23.15.48:134][  0]LogD3D11RHI:     GPU DeviceId: 0x6939 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.23-23.15.48:134][  0]LogWindows: EnumDisplayDevices:
+[2018.11.23-23.15.48:134][  0]LogWindows:    0. 'AMD Radeon (TM) R9 380 Series' (P:1 D:1)
+[2018.11.23-23.15.48:135][  0]LogWindows:    1. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    2. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    3. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    4. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    5. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    6. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    7. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:135][  0]LogWindows:    8. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    9. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    10. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    11. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    12. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    13. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    14. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows:    15. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2018.11.23-23.15.48:136][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.23-23.15.48:136][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 380 Series
+[2018.11.23-23.15.48:136][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.23-23.15.48:136][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.23-23.15.48:136][  0]LogRHI: Texture pool is 2850 MB (70% of 4071 MB)
+[2018.11.23-23.15.48:205][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.23-23.15.48:215][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.23-23.15.48:216][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Intermediate/Shaders/WorkingDirectory/2040/).
+[2018.11.23-23.15.48:216][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rataa/AppData/Local/Temp/UnrealShaderWorkingDir/D7D752C143F9C044CFFBDCA413C4E186/'.
+[2018.11.23-23.15.48:216][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.23-23.15.51:276][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.23-23.15.51:320][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.23-23.15.51:392][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.23-23.15.51:434][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.23-23.15.51:485][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.23-23.15.51:528][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.23-23.15.51:570][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.23-23.15.51:611][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.23-23.15.51:649][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.23-23.15.51:692][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.23-23.15.51:733][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.23-23.15.51:773][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.23-23.15.51:812][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.23-23.15.51:853][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.23-23.15.51:942][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.23-23.15.51:942][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.23-23.15.52:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-23.15.52:033][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.23-23.15.52:153][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.23-23.15.52:174][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.23-23.15.52:218][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.23-23.15.52:258][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.23-23.15.52:300][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.23-23.15.52:354][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.23-23.15.52:355][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.23-23.15.52:998][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: Loaded boot cache 0.36s 78MB C:/Users/rataa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rataa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.23-23.15.53:353][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.23-23.15.53:366][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.23-23.15.53:378][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rataa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.23-23.15.53:386][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.23-23.15.53:387][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.23-23.15.53:387][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.23-23.15.53:387][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.23-23.15.56:745][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.23-23.15.57:341][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.23-23.15.57:395][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.23-23.15.57:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.23-23.15.57:395][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.23-23.15.57:395][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.23-23.15.57:395][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.23-23.15.57:462][  0]LogNetVersion: ITEC2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147596094)
+[2018.11.23-23.15.58:055][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.11.23-23.16.00:212][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065008 seconds
+[2018.11.23-23.16.00:217][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.11.23-23.16.00:217][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.11.23-23.16.00:217][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.23-23.16.00:266][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.23-23.16.15:981][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.23-23.16.16:059][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.23-23.16.17:330][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.23-23.16.18:009][  0]SourceControl: Source control is disabled
+[2018.11.23-23.16.18:010][  0]SourceControl: Source control is disabled
+[2018.11.23-23.16.18:062][  0]SourceControl: Source control is disabled
+[2018.11.23-23.16.18:127][  0]SourceControl: Source control is disabled
+[2018.11.23-23.16.19:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.23-23.16.19:573][  0]LogOcInput: OculusInput pre-init called
+[2018.11.23-23.16.19:944][  0]LogEngine: Initializing Engine...
+[2018.11.23-23.16.19:946][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.23-23.16.20:724][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.23-23.16.20:724][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.23-23.16.20:846][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.23-23.16.20:862][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.23-23.16.20:903][  0]LogInit: FAudioDevice initialized.
+[2018.11.23-23.16.20:976][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/rataa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.23-23.16.20:984][  0]LogInit: Texture streaming: Enabled
+[2018.11.23-23.16.21:115][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.23-23.16.21:115][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={638A016C-43B7-7A81-216E-3E95FFCAF1BB}
+[2018.11.23-23.16.21:222][  0]LogInit: Transaction tracking system initialized
+[2018.11.23-23.16.21:525][  0]BlueprintLog: New page: Editor Load
+[2018.11.23-23.16.22:553][  0]LocalizationService: Localization service is disabled
+[2018.11.23-23.16.23:593][  0]LogConsoleResponse: Display: 
+[2018.11.23-23.16.25:426][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.23-23.16.25:426][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.23-23.16.25:426][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.23-23.16.26:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/' took 0.02s
+[2018.11.23-23.16.27:601][  0]SourceControl: Source control is disabled
+[2018.11.23-23.16.27:694][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.23-23.16.36:099][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.23-23.16.36:113][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.23-23.16.36:114][  0]Cmd: MAP LOAD FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.23-23.16.36:114][  0]LogEditorServer: Warning: Can't find file 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.11.23-23.16.36:114][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.23-23.16.36:151][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.08ms to complete.
+[2018.11.23-23.16.36:151][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.037
+[2018.11.23-23.16.36:291][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_25b0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_41dc_0///####STATCAT_Advanced####
+[2018.11.23-23.16.36:291][  0]LogCollectionManager: Loaded 0 collections in 0.001038 seconds
+[2018.11.23-23.16.36:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Saved/Collections/' took 0.01s
+[2018.11.23-23.16.36:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/Developers/rataa/Collections/' took 0.01s
+[2018.11.23-23.16.36:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/Collections/' took 0.01s
+[2018.11.23-23.16.36:363][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.23-23.16.36:369][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2363 classes and 519 folders.
+[2018.11.23-23.16.36:419][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.23-23.16.37:444][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.23-23.16.37:497][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.23-23.16.37:511][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.23-23.16.37:535][  0]LogSlate: Took 0.019429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.23-23.16.37:726][  0]LogRenderer: Reallocating scene render targets to support 1096x632 Format 10 NumSamples 1 (Frame:1).
+[2018.11.23-23.16.38:067][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.23-23.16.38:067][  0]LogLoad: (Engine Initialization) Total time: 62.59 seconds
+[2018.11.23-23.16.38:067][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.23-23.16.38:067][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.23-23.16.38:093][  0]LogAssetRegistry: Asset discovery search completed in 40.0602 seconds
+[2018.11.23-23.16.38:095][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.23-23.16.38:095][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.11.23-23.16.38:096][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.23-23.16.38:180][  0]LogSlate: Took 0.044446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.23-23.16.48:089][181]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-23.16.48:150][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.23-23.16.48:151][181]PIE: New page: PIE session: Untitled_0 (Nov 24, 2018, 3:16:48 AM)
+[2018.11.23-23.16.48:151][181]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2018.11.23-23.16.48:152][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000508s)
+[2018.11.23-23.16.48:152][181]LogAIModule: Creating AISystem for world Untitled
+[2018.11.23-23.16.48:152][181]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2018.11.23-23.16.48:152][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001331s)
+[2018.11.23-23.16.48:169][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.23-23.16.48:201][181]LogInit: FAudioDevice initialized.
+[2018.11.23-23.16.48:245][181]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2018.11.23-23.16.48:245][181]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2018.11.23-23.16.48:245][181]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2018.11.23-23.16.48:245][181]LogLoad: Game class is 'GameModeBase'
+[2018.11.23-23.16.48:247][181]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2018.11.24-01.16.48
+[2018.11.23-23.16.48:247][181]LogWorld: Bringing up level for play took: 0.000413
+[2018.11.23-23.16.48:280][181]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.23-23.16.48:281][181]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.854
+[2018.11.23-23.17.09:543][717]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.23-23.17.09:930][717]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.23-23.17.10:540][717]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.23-23.17.10:558][717]LogSlate: Took 0.017744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.23-23.17.12:366][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-23.17.12:384][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.23-23.17.12:384][933]PIE: New page: PIE session: Untitled_0 (Nov 24, 2018, 3:17:12 AM)
+[2018.11.23-23.17.12:384][933]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2018.11.23-23.17.12:385][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000399s)
+[2018.11.23-23.17.12:385][933]LogAIModule: Creating AISystem for world Untitled
+[2018.11.23-23.17.12:385][933]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2018.11.23-23.17.12:386][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001397s)
+[2018.11.23-23.17.12:410][933]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.23-23.17.12:441][933]LogInit: FAudioDevice initialized.
+[2018.11.23-23.17.12:491][933]LogLoad: Game class is 'GameModeBase'
+[2018.11.23-23.17.12:492][933]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2018.11.24-01.17.12
+[2018.11.23-23.17.12:492][933]LogWorld: Bringing up level for play took: 0.000454
+[2018.11.23-23.17.12:493][933]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.23-23.17.12:495][933]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.641
+[2018.11.23-23.17.12:507][933]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.23-23.17.45:395][255]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\rataa\Desktop\LX\SPACE002LX.hdr)
+[2018.11.23-23.17.45:567][255]LogTexture: Display: Building textures: SPACE002LX (RGBA16F, 4096X4096)
+[2018.11.23-23.17.51:348][255]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\rataa\Desktop\LX\SPACE003LX.hdr)
+[2018.11.23-23.17.51:706][255]LogTexture: Display: Building textures: SPACE003LX (RGBA16F, 4096X4096)
+[2018.11.23-23.17.58:338][255]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\rataa\Desktop\LX\SPACE004LX.hdr)
+[2018.11.23-23.17.58:659][255]LogTexture: Display: Building textures: SPACE004LX (RGBA16F, 4096X4096)
+[2018.11.23-23.18.04:941][255]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\rataa\Desktop\LX\SPACE001LX.hdr)
+[2018.11.23-23.18.05:279][255]LogTexture: Display: Building textures: SPACE001LX (RGBA16F, 4096X4096)
+[2018.11.23-23.18.26:089][  8]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.11.23-23.18.26:116][  8]LogMaterial: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2018.11.23-23.18.26:147][  8]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.11.23-23.18.26:415][  8]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.11.23-23.18.26:496][  8]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.11.23-23.18.26:558][  8]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.23-23.18.40:837][345]LogAIModule: Creating AISystem for world Level1
+[2018.11.23-23.18.47:183][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDRI_SKYS/SPACE001LX" FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE001LX.uasset" SILENT=true
+[2018.11.23-23.18.47:859][345]LogSavePackage: Save=673.96ms
+[2018.11.23-23.18.47:859][345]LogSavePackage: Moving 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Saved/SPACE001LX0BAA3AF746C82EBB06B400851DF9A6AC.tmp' to 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE001LX.uasset'
+[2018.11.23-23.18.47:863][345]LogSavePackage: Display: Finished SavePackage C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE001LX.uasset
+[2018.11.23-23.18.47:867][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDRI_SKYS/SPACE002LX" FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE002LX.uasset" SILENT=true
+[2018.11.23-23.18.48:133][345]LogSavePackage: Save=264.52ms
+[2018.11.23-23.18.48:133][345]LogSavePackage: Moving 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Saved/SPACE002LX93D9D6374F588E3A3E880EAFB2A90658.tmp' to 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE002LX.uasset'
+[2018.11.23-23.18.48:135][345]LogSavePackage: Display: Finished SavePackage C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE002LX.uasset
+[2018.11.23-23.18.48:141][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDRI_SKYS/SPACE003LX" FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE003LX.uasset" SILENT=true
+[2018.11.23-23.18.48:824][345]LogSavePackage: Save=682.31ms
+[2018.11.23-23.18.48:824][345]LogSavePackage: Moving 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Saved/SPACE003LXABB0EBA34D7C90BA9101789C91449000.tmp' to 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE003LX.uasset'
+[2018.11.23-23.18.48:826][345]LogSavePackage: Display: Finished SavePackage C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE003LX.uasset
+[2018.11.23-23.18.48:831][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDRI_SKYS/SPACE004LX" FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE004LX.uasset" SILENT=true
+[2018.11.23-23.18.49:500][345]LogSavePackage: Save=667.23ms
+[2018.11.23-23.18.49:500][345]LogSavePackage: Moving 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Saved/SPACE004LXEC7264DC481B79621653A98ACFB86FE0.tmp' to 'C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE004LX.uasset'
+[2018.11.23-23.18.49:502][345]LogSavePackage: Display: Finished SavePackage C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/HDRI_SKYS/SPACE004LX.uasset
+[2018.11.23-23.18.49:503][345]Cmd: MAP LOAD FILE="C:/Users/rataa/OneDrive/Documents/Unreal Projects/ITEC2018/Content/SideScroller/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.23-23.18.49:503][345]LightingResults: New page: Lighting Build
+[2018.11.23-23.18.49:534][345]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.11.23-23.18.49:534][345]LoadErrors: New page: Loading map: Level1.umap
+[2018.11.23-23.18.49:534][345]MapCheck: New page: Map Check
+[2018.11.23-23.18.49:534][345]LightingResults: New page: Lighting Build
+[2018.11.23-23.18.49:575][345]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.23-23.18.49:602][345]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.23-23.18.49:645][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.673ms to complete.
+[2018.11.23-23.18.49:645][345]LogFileHelpers: Loading map 'Level1' took 0.143
+[2018.11.23-23.18.53:152][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.23-23.18.53:767][809]LogSlate: Took 0.021543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.23-23.19.00:547][504]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.11.23-23.19.04:236][758]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.23-23.19.04:238][758]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.11.23-23.19.04:295][758]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.11.23-23.19.04:300][758]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.11.23-23.19.04:332][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_12, compiling. 
+[2018.11.23-23.19.04:336][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_13, compiling. 
+[2018.11.23-23.19.04:340][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_14, compiling. 
+[2018.11.23-23.19.04:344][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_15, compiling. 
+[2018.11.23-23.19.04:347][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2018.11.23-23.19.04:351][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_16, compiling. 
+[2018.11.23-23.19.04:355][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_17, compiling. 
+[2018.11.23-23.19.04:359][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.23-23.19.04:363][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.23-23.19.04:367][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.11.23-23.19.04:371][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.23-23.19.05:087][794]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2018.11.23-23.19.05:087][794]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.11.23-23.19.05:087][794]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.23-23.19.05:087][794]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.11.23-23.21.03:465][163]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.11.23-23.21.03:555][172]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.23-23.21.08:835][678]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.23-23.21.08:886][678]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.23-23.21.08:892][678]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.23-23.21.08:923][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_12, compiling. 
+[2018.11.23-23.21.08:926][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_13, compiling. 
+[2018.11.23-23.21.08:931][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_14, compiling. 
+[2018.11.23-23.21.08:934][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_15, compiling. 
+[2018.11.23-23.21.08:938][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2018.11.23-23.21.08:942][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_16, compiling. 
+[2018.11.23-23.21.08:946][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_17, compiling. 
+[2018.11.23-23.21.08:950][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.23-23.21.08:954][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.23-23.21.08:957][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.11.23-23.21.08:961][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.23-23.21.09:522][709]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2018.11.23-23.21.09:523][709]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.11.23-23.21.09:523][709]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.23-23.21.09:523][709]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.11.23-23.21.47:841][ 93]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.21.47:891][ 93]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.21.47:907][ 93]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.21.51:734][446]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.23-23.21.51:734][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.23-23.21.51:734][446]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.21.51:734][446]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.23-23.21.55:435][812]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.21.55:444][812]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.21.55:759][842]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.21.55:759][842]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.21.55:759][842]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.22.22:877][195]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.22.23:487][256]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.22.23:487][256]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.22.23:487][256]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.09:984][242]LogMaterialEditor: Applying material Sky_1
+[2018.11.23-23.23.10:319][242]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.10:342][242]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.10:351][242]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.10:381][242]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Sky_1, compiling. 
+[2018.11.23-23.23.10:781][242]TextureStreamingBuild: Display: Compiling optional shaders took 0.402 seconds.
+[2018.11.23-23.23.11:766][340]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.11:766][340]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.11:766][340]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.39:427][706]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.39:431][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.23-23.23.40:062][771]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.40:062][771]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.40:062][771]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.41:094][876]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.41:379][904]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.41:379][904]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.41:379][904]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.46:869][453]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.46:872][453]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0, compiling. 
+[2018.11.23-23.23.47:221][486]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.47:221][486]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.47:221][486]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.48:680][633]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.48:984][663]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.48:984][663]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.48:984][663]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.54:285][189]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.54:289][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.23-23.23.54:881][246]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.54:881][246]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.54:881][246]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.23.56:305][387]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.23.56:611][417]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.23.56:611][417]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.23.56:611][417]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.24.12:859][ 36]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.24.12:923][ 37]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.11.23-23.24.13:192][ 64]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.24.13:192][ 64]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.24.13:192][ 64]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.24.20:723][433]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.24.21:042][464]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.24.21:042][464]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.24.21:042][464]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.24.27:011][ 55]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.24.27:014][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2018.11.23-23.24.27:330][ 85]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.24.27:330][ 85]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.24.27:330][ 85]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.24.28:986][252]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.24.29:299][283]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.24.29:299][283]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.24.29:299][283]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.24.40:366][387]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.24.40:370][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.11.23-23.24.40:684][417]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.23-23.24.40:684][417]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.24.40:684][417]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.23-23.25.07:720][272]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.25.07:720][272]LogMaterial: Warning: /Engine/Transient.Sky_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.23-23.25.07:720][272]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+[2018.11.23-23.25.07:724][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.11.23-23.25.07:747][272]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+[2018.11.23-23.25.33:467][574]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.25.33:478][574]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.11.23-23.25.34:280][649]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.11.23-23.25.34:281][649]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.25.34:281][649]MaterialEditorStats: Texture samplers: 1/16
+[2018.11.23-23.26.07:074][633]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.26.07:078][633]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.23-23.26.08:065][727]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.11.23-23.26.08:065][727]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.26.08:065][727]MaterialEditorStats: Texture samplers: 1/16
+[2018.11.23-23.26.09:155][833]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.26.09:162][833]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.23-23.26.09:843][896]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2018.11.23-23.26.09:843][896]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.26.09:843][896]MaterialEditorStats: Texture samplers: 1/16
+[2018.11.23-23.26.57:056][727]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.23-23.27.11:086][982]LogMaterial: Missing cached shader map for material Sky_1, compiling. 
+[2018.11.23-23.27.11:091][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2018.11.23-23.27.11:834][ 52]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2018.11.23-23.27.11:834][ 52]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.11.23-23.27.11:834][ 52]MaterialEditorStats: Texture samplers: 1/16
